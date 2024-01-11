@@ -1,0 +1,247 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+header {
+  width: 100%;
+  height: 700px;
+  background-image: url(./asosiy.png);
+  background-repeat: no-repeat;
+}
+nav {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  padding: ;
+}
+nav h1 {
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+
+}
+nav p {
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+}
+nav button {
+  width: 200px;
+  height: 50px;
+  border-radius: 30px;
+  background: #68bf3c;
+  color: #fff;
+}
+.asosiy {
+  width: 70%;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  color: #fff;
+  box-sizing: border-box;
+  padding: 20px 150px;
+}
+.asosiy .zx {
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 900;
+}
+.asosiy h2 {
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+}
+.asosiy .pp {
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 3.8px;
+  margin-right: 200px;
+}
+.asosiy button {
+  width: 200px;
+  height: 50px;
+  border-radius: 30px;
+  background: #68bf3c;
+  color: #fff;
+}
+section {
+  width: 100%;
+  height: 500px;
+}
+.ikkinchi {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  padding: 50px;
+  align-items: center;
+  justify-content: center;
+}
+.img {
+  width: 50%;
+  height: 420px;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+.text {
+  width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  height: 400px;
+  justify-content: left;
+}
+.text h2 {
+  color: #68bf3c;
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 700;
+}
+.text p {
+  color: #bdbdbd;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 36px; /* 200% */
+}
+.text h3 {
+  color: #bdbdbd;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 700;
+}
+.text img {
+  width: 160px;
+  height: 160px;
+}
+main {
+  width: 100%;
+}
+.uchinchi {
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  padding: 50px 150px;
+}
+.katta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+.uchinchi h2 {
+  color: #68cd16;
+  font-family: Montserrat;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  width: 100%;
+}
+.rasm {
+  width: 30%;
+}
+.rasm img {
+  width: 350px;
+  height: 250px;
+  border-radius: 12px;
+}
+.mal {
+  width: 30%;
+  align-items: center;
+}
+.mal h4 {
+  color: #a6a6a6;
+  font-family: Montserrat;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 20px;
+}
+.mal p {
+  color: #666;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 23px; /* 164.286% */
+  line-height: 25px;
+}
+.zakas{
+    border: 2px solid 
+    width: 170px;
+    height: 29px;
+    flex-shrink: 0;
+
+
+}
+.zakas p {
+  color: #a6a6a6;
+  font-family: Montserrat;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.zakas p b {
+  color: #a6a6a6;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.zakas button {
+  width: 200px;
+  height: 50px;
+  border-radius: 30px;
+  background: #68bf3c;
+  color: #fff;
+}
+.dassa{
+  color: gray;
+  width: 363px;
+  height: 75px;
+  flex-shrink: 0;
+}
+.abdu{
+  display: flex;
+  justify-content: space-around;
+}
+.ikkinchi{
+  display: flex;
+  color: white;
+}
+.bobur{
+  background-color: black;
+  width: 1440px;
+height: 200px;
+flex-shrink: 0;
+}
+.goz{
+  color: white;
+}
+.gadmee{
+  color: white;
+}
+
